@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Free AI Tools Hub – Earn Online with AI</title>
+
+<meta name="description" content="Best free AI tools with guides. Use AI tools online and earn money with ads and affiliate links.">
+<meta name="keywords" content="free ai tools, ai tools online, ai earning, best ai tools">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- GOOGLE ADSENSE (Replace publisher ID after approval) -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1234567890123456"
+crossorigin="anonymous"></script>
+
+<style>
+body{margin:0;font-family:Arial,sans-serif;background:#f5f7fa;color:#333;line-height:1.8}
+header{background:#0d47ff;color:#fff;padding:40px 20px;text-align:center}
+section{max-width:1100px;margin:auto;padding:40px 20px}
+.tools{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px}
+.tool,article{background:#fff;padding:25px;border-radius:10px;box-shadow:0 4px 10px rgba(0,0,0,0.1)}
+.tool h3{color:#0d47ff}
+.tool a{display:inline-block;margin-top:10px;background:#0d47ff;color:#fff;padding:10px 15px;border-radius:5px;text-decoration:none}
+.ad{margin:30px 0;text-align:center}
+footer{background:#0d47ff;color:#fff;text-align:center;padding:20px}
+@media(max-width:600px){header h1{font-size:24px}}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Free AI Tools Hub</h1>
+<p>Use Free AI Tools & Earn Online</p>
+</header>
+
+<section class="ad">
+<!-- AdSense Top Banner -->
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-1234567890123456"
+data-ad-slot="1111111111"
+data-ad-format="auto"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</section>
+
+<section>
+<h2>🔥 Best Free AI Tools (Affiliate)</h2>
+<div class="tools">
+
+<div class="tool">
+<h3>AI Writing Tool</h3>
+<p>Best AI tool for articles, blogs and scripts.</p>
+<a href="https://writesonic.com/?via=affiliate" target="_blank">Use Tool</a>
+</div>
+
+<div class="tool">
+<h3>AI Image Generator</h3>
+<p>Create AI images online free.</p>
+<a href="https://www.bing.com/images/create" target="_blank">Use Tool</a>
+</div>
+
+<div class="tool">
+<h3>AI Video Tool</h3>
+<p>Create videos using AI technology.</p>
+<a href="https://pictory.ai?ref=affiliate" target="_blank">Use Tool</a>
+</div>
+
+<div class="tool">
+<h3>AI Chat Tool</h3>
+<p>Free ChatGPT alternative.</p>
+<a href="https://chat.openai.com" target="_blank">Use Tool</a>
+</div>
+
+</div>
+</section>
+
+<section class="ad">
+<!-- AdSense Middle Banner -->
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-1234567890123456"
+data-ad-slot="2222222222"
+data-ad-format="auto"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</section>
+
+<section>
+<h2>📘 How Free AI Tools Help You Earn Online</h2>
+
+<article>
+<p>
+Free AI tools are changing the online earning world. Today anyone can earn money using AI tools without heavy investment. These tools help in freelancing, blogging, YouTube automation and affiliate marketing.
+</p>
+<p>
+AI writing tools help people create blogs, scripts and ads quickly. AI image tools are used for thumbnails and designs. AI video tools help create YouTube and social media videos without editing skills.
+</p>
+<p>
+Affiliate marketing becomes easy with AI. You can review AI tools, add affiliate links and earn commission when users sign up. Google AdSense ads generate passive income from website traffic.
+</p>
+<p>
+With proper SEO and regular content, AI websites can rank on Google and bring daily visitors. More visitors mean more ad clicks and affiliate earnings.
+</p>
+</article>
+</section>
+
+<footer>
+<p>© 2026 Free AI Tools Hub | Earn with AI</p>
+</footer>
+
+</body>
+</html>
